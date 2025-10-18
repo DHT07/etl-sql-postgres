@@ -1,0 +1,4 @@
+cliente_id,nome,documento,email,cidade,estado
+1,Ana Souza,111.111.111-11,ana@email.com,Guaíba,rs
+2,Carlos Lima,222.222.222-22,carlos@email.com,Porto Alegre,RS
+3,Marina Alves,333.333.333-33,marina@email.com,Canoas,RS

